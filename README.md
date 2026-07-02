@@ -6,21 +6,7 @@ A modern and responsive **Currency Converter** built using **React + Vite**. It 
 
 ## 🚀 Live Demo
 
-> Add your Vercel deployment link here after deployment.
-
-Example:
-
 https://currencyflow.vercel.app
-
----
-
-## 📸 Preview
-
-> Add screenshots here after deployment.
-
-| Home Page |
-|-----------|
-| ![CurrencyFlow Screenshot](./public/preview.png) |
 
 ---
 
@@ -146,7 +132,6 @@ This project uses a free Exchange Rate API to fetch real-time currency exchange 
 **Diksha Jha**
 
 - GitHub: https://github.com/dikshajha25
-- LinkedIn: *(Add your LinkedIn profile link here)*
 
 ---
 
