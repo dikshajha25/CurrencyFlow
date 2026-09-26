@@ -6,7 +6,7 @@ A modern and responsive **Currency Converter** built using **React + Vite**. It 
 
 ## 🚀 Live Demo
 
-https://currencyflow.vercel.app
+[https://currency-flow-xi.vercel.app/]
 
 ---
 
